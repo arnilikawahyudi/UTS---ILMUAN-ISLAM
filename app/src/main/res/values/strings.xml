@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ilmuan Islam</string>
+    <string name="nama_ilmuan">nama_ilmuan</string>
+    <string name="detail_ilmuan">detail_ilmuan</string>
+    <string name="share">Share</string>
+    <string name="e_mail">E-mail</string>
+    <string name="lahir">Lahir dan Wafat</string>
+    <string name="karya">Karya</string>
+</resources>
